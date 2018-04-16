@@ -27,3 +27,16 @@
       left: 0%;
       top: 0%;
       position: absolute; } 
+
+      .logo_container {
+          float: left;
+      }
+      br {
+          background-color: chartreuse;
+          color: chartreuse;
+      }
+      .section4 {
+          background-color: chartreuse;
+          margin: 0;
+          border: 0;
+      }
